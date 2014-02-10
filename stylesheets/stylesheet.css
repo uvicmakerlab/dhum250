@@ -157,6 +157,14 @@ aside a.button {
   font-size: 21px;
 }
 
+header a {
+  color: #fff;
+}
+header a:hover {
+  color: #9ddcff;
+}
+	
+
 code, pre {
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: #222;
